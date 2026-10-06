@@ -1,0 +1,4 @@
+interface:
+  display_name: "Gerar-ilustração-Notion"
+  short_description: "Ilustrações editoriais com traço escuro e papel"
+  default_prompt: "Use $gerar-ilustracao-notion para criar uma ilustração sobre uma horta comunitária em tons de sálvia e terracota, mantendo o estilo das referências."

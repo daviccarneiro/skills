@@ -1,9 +1,8 @@
 # Análise dos cinco anexos
 
-Análise feita por inspeção visual das cinco imagens recuperadas da conversa
-“Criar skill de imagens”, em 6 de outubro de 2026. Os arquivos PNG originais são
-retidos sem alterações. Números e cores propostos abaixo são aproximações de
-direção de arte, não medidas extraídas por amostragem de pixels.
+As cinco referências descrevem a mesma família de desenho em diferentes
+composições. Números e cores abaixo são aproximações de direção de arte, não
+medidas extraídas por amostragem de pixels. Os PNGs originais são preservados.
 
 ## Evidência por imagem
 
@@ -59,8 +58,6 @@ hexadecimais são sugestões operacionais, não a paleta oficial de qualquer mar
 
 ## Limites de interpretação
 
-Os anexos são ilustrações, não fotografias. Menções a “estilo de fotografia” no
-histórico devem ser compreendidas neste caso como acabamento, enquadramento e
-linguagem visual, salvo um novo pedido explícito de fotografia. Medicina,
-odontologia e tecnologia são temas das amostras; não definem o estilo. Não há
-evidência de que os arquivos sejam peças oficiais do Notion.
+As referências são ilustrações, não fotografias. Medicina, odontologia e
+tecnologia são temas das amostras; não definem o estilo. A menção ao Notion é
+uma aproximação estética e não indica que os arquivos sejam peças oficiais.

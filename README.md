@@ -8,9 +8,9 @@ Recursos específicos de uma ferramenta são opcionais e ficam junto da skill.
 
 <!-- skills-catalog:start -->
 
-| Skill | Descrição |
-|---|---|
-| [Gerar-ilustração-Notion](skills/gerar-ilustracao-notion/SKILL.md) | Ilustrações editoriais minimalistas com personagens simples, contornos escuros, cores foscas e textura de papel. Inclui cinco referências visuais, prompt-base, parâmetros, negativos e exemplos. |
+| Skill | Identificador | Descrição |
+|---|---|---|
+| [Gerar-ilustração-Notion](skills/gerar-ilustracao-notion/SKILL.md) | `gerar-ilustracao-notion` | Gere ilustrações editoriais com personagens simples, contornos escuros e textura de papel. Use para criar ou adaptar imagens na família visual Notion das referências. |
 
 <!-- skills-catalog:end -->
 
